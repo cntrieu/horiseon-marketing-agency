@@ -10,6 +10,13 @@ Here is a preview of the website:
 
 ![screenshot](https://user-images.githubusercontent.com/89812084/206830116-fecce44f-0b35-4ecb-a5f0-893c2ef5fe06.jpg)
 
+To view the full website, please visit this link:
+<https://cntrieu.github.io/horiseon-marketing-agency/>
+
 ## Credits
 
 This code was supplied by user Xandromus at https://github.com/coding-boot-camp/urban-octo-telegram to use for practice.
+
+## License
+
+Please refer to the LICENSE in the repo.
