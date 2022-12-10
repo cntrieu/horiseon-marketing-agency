@@ -6,6 +6,8 @@ This project is a practice to refactor accessibility standards for Horiseon mark
 
 ## Usage
 
+Here is a preview of the website:
+
 ![screenshot](https://user-images.githubusercontent.com/89812084/206830116-fecce44f-0b35-4ecb-a5f0-893c2ef5fe06.jpg)
 
 ## Credits
