@@ -2,7 +2,7 @@
 
 ## Description
 
-This project is a practice to refactor accessibility standards for Horiseon marketing agency to be optimized for search engines. In order to achieve this, I went through a developed HTML and viewed the structure related to CSS. Going through the CSS, I consolidated it to reduce redundancy and produce a cleaner code. This project allowed for me to learn about semantic structure and practice the art of cleaner code (as well as the DRY principle in CSS).
+This project is a practice to refactor accessibility standards for Horiseon marketing agency to be optimized for search engines. In order to achieve this, I went through a developed HTML and viewed the structure related to CSS. Going through the CSS, I consolidated it to reduce redundancy and produce a cleaner code. Additionally, updated HTML to allow for easier reading for a viewer of the project. This project allowed for me to learn about semantic structure and practice the art of cleaner code.
 
 ## Usage
 
